@@ -84,7 +84,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/shivang-kathait-372165293/)">
+<a href="https://www.linkedin.com/in/shivang-kathait-372165293/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
