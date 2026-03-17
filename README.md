@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivang Kathait
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Competitive+Programmer;Building+Scalable+Systems&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Building+Scalable+Systems&center=true&width=500&height=45">
 </p>
 
 <p align="center">
