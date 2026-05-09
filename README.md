@@ -66,7 +66,7 @@
 
 # 🏆 Achievements
 
-- Solved **200+ DSA problems** across coding platforms  
+- Solved **300+ DSA problems** across coding platforms  
 - Participated in **competitive programming contests**  
 - Built **multiple full-stack applications**
 
